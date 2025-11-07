@@ -1,0 +1,8 @@
+{
+  "name": "ruler-game",
+  "version": "1.0.0",
+  "description": "反应速度测试游戏 - 尺子掉下来",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
